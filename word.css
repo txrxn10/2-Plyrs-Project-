@@ -1,0 +1,27 @@
+#game-container {
+  text-align: center;
+  margin-top: 100px;
+}
+
+#word-container {
+  margin-top: 20px;
+}
+
+#player-scores {
+  margin-top: 50px;
+}
+
+#timer {
+  font-size: 24px;
+  font-weight: bold;
+}
+
+#word-input {
+  padding: 5px;
+  font-size: 16px;
+}
+
+#submit-btn {
+  padding: 5px 10px;
+  font-size: 16px;
+}
